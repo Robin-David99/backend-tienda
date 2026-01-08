@@ -1,7 +1,7 @@
 {
   "name": "totalis-shop",
   "version": "1.0.0",
-  "private": true,
+  "description": "Backend Tienda",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
