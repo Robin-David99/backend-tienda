@@ -1,0 +1,20 @@
+{
+  "name": "totalis-shop",
+  "version": "1.0.0",
+  "private": true,
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.4",
+    "sqlite3": "^5.1.6",
+    "uuid": "^9.0.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
